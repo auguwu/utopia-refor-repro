@@ -1,0 +1,7 @@
+Run `cargo run` to reproduce the issue.
+
+So far, I tried the following specifications:
+
+* YouTrack: https://youtrack.jetbrains.com/api/openapi
+* Stripe:   https://raw.githubusercontent.com/stripe/openapi/master/openapi/spec3.json
+* charted (my own project): https://raw.githubusercontent.com/charted-dev/charted/main/assets/openapi.json
